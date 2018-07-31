@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Collection/360 degree/vrpart2.unity
+    guid: 774fe729136e697488828a46b7ba8038
+  - enabled: 0
+    path: Assets/Collection/LANGUAGE_SELECTION/LANG_SEL/Lang_Sel_Zone.unity
+    guid: b8b19b8cb6b4c6845bc02e3846595bc0
+  - enabled: 0
+    path: Assets/Collection/Register/Options.unity
+    guid: 784068a847945d44d99c97ab3879f9e3
+  - enabled: 0
+    path: Assets/Collection/Register/register.unity
+    guid: 30a14c15487df2245ba2b51edee6c939
+  - enabled: 0
+    path: Assets/Collection/Work_Space/Full_MARG.unity
+    guid: dcea632fa057ab0429f6c6ee4683c575
+  - enabled: 0
+    path: Assets/Collection/Register/Login.unity
+    guid: 4f9f88114c63a4a45b757da1bef369e4
+  - enabled: 0
+    path: Assets/Collection/Register/feedback.unity
+    guid: cfe4d71e42590d04bac08a1c6afc9fd4
+  - enabled: 0
+    path: Assets/Collection/Register/script/Score/Scoreboard.unity
+    guid: 576c4dee413fd554fbe0d73306e3b105
+  - enabled: 0
+    path: Assets/Collection/LANGUAGE_SELECTION/map/map.unity
+    guid: 4196003f29d24a24e87dd6dc081f36ba
+  - enabled: 0
+    path: Assets/Collection/360 degree/first_scene/vrdmo.unity
+    guid: 81bcdd6c483254d47968b0bac6f34675
+  - enabled: 0
+    path: Assets/Collection/360 degree/secnd_scene/MENUS.unity
+    guid: 2c34019c32e52e74b87ae22b04c38d4c

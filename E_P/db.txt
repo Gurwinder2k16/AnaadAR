@@ -1,0 +1,46 @@
+create database sachkhand
+
+create table user_login
+(
+email varchar(250) primary key,
+user_name varchar(250),
+status varchar(250),
+block varchar(250)
+)
+
+create table level_zone
+(
+email varchar(250),
+compl_level varchar(250),
+point varchar(250),
+
+)
+
+create table target_places
+(
+gurudwara_names varchar(250),
+max_target varchar(250),
+app_id varchar(250),
+lat varchar(250),
+lon varhchar(250),
+map_id varchar(250)
+)
+
+create table active_user
+(
+email varchar(250),
+status_active varchar(250)
+)
+
+create table feed_back
+(
+email varchar(250),
+feedback_mssg varchar(250),
+status  varchar(250),
+reply_feed varchar(250)
+)
+
+create table instruction
+(
+instr_field varchar(250)
+)

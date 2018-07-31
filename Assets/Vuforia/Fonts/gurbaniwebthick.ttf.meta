@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e0b46bc6b91f9b7428426acaeb41dba3
+timeCreated: 1508420807
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GurbaniWebThick
+  fontNames:
+  - GurbaniWebThick
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
